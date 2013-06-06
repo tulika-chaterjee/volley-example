@@ -1,13 +1,12 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1370543061546 2721 6ef247ad62fdcc3b5256ca1a8d178903242157e9 D:\Work\workspace\volley-example\volleyexample\build\res\all\debug\layout\activity_main.xml
+1370543955287 1018 08c3c8019b1b618cf3d16a26ed5ead20bd183711 D:\Work\workspace\volley-example\volleyexample\build\res\all\debug\layout\list_item.xml
+1370543955287 505 18ed3db18c4f4ea7b32dd8b1efa7eebd9c74a215 D:\Work\workspace\volley-example\volleyexample\build\res\all\debug\layout\activity_main.xml
 1370543061549 3290 6a5f8c0d30112b562044290218ee00d58d231ae7 D:\Work\workspace\volley-example\volleyexample\build\res\all\debug\drawable-mdpi\ic_launcher.png
-1370543061552 224 3bee0d9a6f0efbaf11495ad45fdeb8f71aee62e8 D:\Work\workspace\volley-example\volleyexample\build\res\all\debug\values-v14\values.xml
-1370543061554 210 c41731f5631a90fa989588ef97e9476fc244b438 D:\Work\workspace\volley-example\volleyexample\build\res\all\debug\values-v11\values.xml
+1370543955313 130 90e37035f35f83953c491e73e930b7aea297a472 D:\Work\workspace\volley-example\volleyexample\build\res\all\debug\values-sw720dp-land\values.xml
 1370543061549 5658 05f34018146a84bda98541ab5dc1e9bb44dd6d9b D:\Work\workspace\volley-example\volleyexample\build\res\all\debug\drawable-hdpi\ic_launcher.png
-1370543061557 352 c99de368ee0cdae0f9af45479d8548a22571116a D:\Work\workspace\volley-example\volleyexample\build\res\all\debug\values-large\values.xml
 1370543061548 12638 2739b64a0c5132fb79cf13d4bb023425b2ac788d D:\Work\workspace\volley-example\volleyexample\build\res\all\debug\drawable-xxhdpi\ic_launcher.png
 1370543061546 7708 9fc9ead340070fb0997c1e9f1641c17560ffd68b D:\Work\workspace\volley-example\volleyexample\build\res\all\debug\drawable-xhdpi\ic_launcher.png
-1370543061549 1513 a0cb09e9859e5c474c0d8b1082976b36fa1d2ef9 D:\Work\workspace\volley-example\volleyexample\build\res\all\debug\values\values.xml
-1370543061549 220 ce5358ff5014a2e66487752e21ad707491010e89 D:\Work\workspace\volley-example\volleyexample\build\res\all\debug\menu\main.xml
+1370543955311 712 a855dcb306e3cc05534c45e07fc1bef42234e204 D:\Work\workspace\volley-example\volleyexample\build\res\all\debug\values\values.xml
+1370543955286 266 5d165374e2d7a2f79556da25faf45a667cf5f5b9 D:\Work\workspace\volley-example\volleyexample\build\res\all\debug\menu\main.xml

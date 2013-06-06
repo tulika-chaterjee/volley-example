@@ -1,9 +1,8 @@
 package com.dt.volleyexample.activities;
 
-import android.app.ProgressDialog;
-import android.content.DialogInterface;
-import android.os.Bundle;
 import android.app.Activity;
+import android.app.ProgressDialog;
+import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -42,13 +41,7 @@ public class MainActivity extends Activity {
     }
 
     private void loadData() {
-        progressDialog = ProgressDialog.show(this, "Please wait", "Loading data...", true, true,
-                new DialogInterface.OnCancelListener() {
-                    @Override
-                    public void onCancel(DialogInterface dialogInterface) {
-                        mRequestQueue.cancelAll(this);
-                    }
-                });
+        progressDialog = ProgressDialog.show(this, "Please wait", "Loading data...", true, true);
 
         JsonObjectRequest jr = new JsonObjectRequest(Request.Method.GET, Constants.URL, null,
                 new Response.Listener<JSONObject>() {
